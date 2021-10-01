@@ -1,0 +1,45 @@
+D:\Visual Studio\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebScrapingUpcomingSale.exe.config
+D:\Visual Studio\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebScrapingUpcomingSale.exe
+D:\Visual Studio\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebScrapingUpcomingSale.pdb
+D:\Visual Studio\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\HtmlAgilityPack.dll
+D:\Visual Studio\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebDriver.dll
+D:\Visual Studio\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebDriver.Support.dll
+D:\Visual Studio\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\HtmlAgilityPack.pdb
+D:\Visual Studio\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\HtmlAgilityPack.xml
+D:\Visual Studio\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebDriver.xml
+D:\Visual Studio\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebDriver.Support.xml
+D:\Visual Studio\WebScrapingUpcomingSale\WebScrapingUpcomingSale\obj\Debug\WebScrapingUpcomingSale.csproj.CoreCompileInputs.cache
+D:\Visual Studio\WebScrapingUpcomingSale\WebScrapingUpcomingSale\obj\Debug\WebScrapingUpcomingSale.csproj.CopyComplete
+D:\Visual Studio\WebScrapingUpcomingSale\WebScrapingUpcomingSale\obj\Debug\WebScrapingUpcomingSale.exe
+D:\Visual Studio\WebScrapingUpcomingSale\WebScrapingUpcomingSale\obj\Debug\WebScrapingUpcomingSale.pdb
+D:\Visual Studio\WebScrapingUpcomingSale\WebScrapingUpcomingSale\obj\Debug\WebScrapingUpcomingSale.csproj.AssemblyReference.cache
+C:\Users\thinh\Documents\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebScrapingUpcomingSale.exe.config
+C:\Users\thinh\Documents\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebScrapingUpcomingSale.exe
+C:\Users\thinh\Documents\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebScrapingUpcomingSale.pdb
+C:\Users\thinh\Documents\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\HtmlAgilityPack.dll
+C:\Users\thinh\Documents\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebDriver.dll
+C:\Users\thinh\Documents\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebDriver.Support.dll
+C:\Users\thinh\Documents\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\thinh\Documents\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\HtmlAgilityPack.xml
+C:\Users\thinh\Documents\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebDriver.xml
+C:\Users\thinh\Documents\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebDriver.Support.xml
+C:\Users\thinh\Documents\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\obj\Debug\WebScrapingUpcomingSale.csproj.AssemblyReference.cache
+C:\Users\thinh\Documents\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\obj\Debug\WebScrapingUpcomingSale.csproj.CoreCompileInputs.cache
+C:\Users\thinh\Documents\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\obj\Debug\WebScrapingUpcomingSale.csproj.CopyComplete
+C:\Users\thinh\Documents\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\obj\Debug\WebScrapingUpcomingSale.exe
+C:\Users\thinh\Documents\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\obj\Debug\WebScrapingUpcomingSale.pdb
+D:\Visual Studio\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebScrapingUpcomingSale.exe.config
+D:\Visual Studio\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebScrapingUpcomingSale.exe
+D:\Visual Studio\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebScrapingUpcomingSale.pdb
+D:\Visual Studio\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\HtmlAgilityPack.dll
+D:\Visual Studio\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\System.Text.RegularExpressions.dll
+D:\Visual Studio\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebDriver.dll
+D:\Visual Studio\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebDriver.Support.dll
+D:\Visual Studio\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\HtmlAgilityPack.pdb
+D:\Visual Studio\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\HtmlAgilityPack.xml
+D:\Visual Studio\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebDriver.xml
+D:\Visual Studio\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\bin\Debug\WebDriver.Support.xml
+D:\Visual Studio\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\obj\Debug\WebScrapingUpcomingSale.csprojAssemblyReference.cache
+D:\Visual Studio\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\obj\Debug\WebScrapingUpcomingSale.csproj.CopyComplete
+D:\Visual Studio\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\obj\Debug\WebScrapingUpcomingSale.exe
+D:\Visual Studio\WebScraping\Applications\WebScrapingUpcomingSale\WebScrapingUpcomingSale\obj\Debug\WebScrapingUpcomingSale.pdb
